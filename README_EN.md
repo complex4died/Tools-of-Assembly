@@ -55,7 +55,7 @@ This is the current flat layout. Additional scripts can be appended, or modules 
 ### Clone
 
 ```bash
-git clone https://github.com/<YOUR_USERNAME>/Tools-of-Assembly.git
+git clone https://github.com/complex4died/Tools-of-Assembly.git
 cd Tools-of-Assembly
 python3 --version
 docker --version

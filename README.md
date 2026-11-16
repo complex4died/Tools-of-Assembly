@@ -55,7 +55,7 @@ Tools-of-Assembly/
 ### 获取仓库
 
 ```bash
-git clone https://github.com/<YOUR_USERNAME>/Tools-of-Assembly.git
+git clone https://github.com/complex4died/Tools-of-Assembly.git
 cd Tools-of-Assembly
 python3 --version
 docker --version
