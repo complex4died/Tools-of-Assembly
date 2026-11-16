@@ -1,0 +1,80 @@
+# =====================================
+# Python cache
+# =====================================
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# =====================================
+# Python virtual environments
+# =====================================
+.venv/
+venv/
+env/
+conda-env/
+
+# =====================================
+# Jupyter Notebook
+# =====================================
+.ipynb_checkpoints/
+
+# =====================================
+# IDE / OS
+# =====================================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# =====================================
+# Logs and temporary files
+# =====================================
+*.log
+*.tmp
+*.temp
+*.bak
+tmp/
+temp/
+cache/
+
+# =====================================
+# Genomics raw data
+# =====================================
+*.fastq
+*.fastq.gz
+*.fq
+*.fq.gz
+*.bam
+*.bai
+*.cram
+
+# =====================================
+# Genome assembly / analysis outputs
+# =====================================
+*.fasta
+*.fasta.gz
+*.fa
+*.fa.gz
+*.gfa
+*.gff
+*.gff3
+*.sam
+
+# =====================================
+# K-mer databases
+# =====================================
+*.meryl/
+*.jf
+*.ktab
+*.prof
+
+# =====================================
+# Analysis output directories
+# =====================================
+output/
+outputs/
+results/
+work/
